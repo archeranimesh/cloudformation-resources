@@ -3,3 +3,5 @@
 
 # aws-cloudformation role settings
 Stack.Name: cloudformation-resources
+# Runt the cfn template for the cloud formation roles.
+Stack.Template: templates/cfn.yml.j2

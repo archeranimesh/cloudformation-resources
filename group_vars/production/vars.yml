@@ -1,0 +1,4 @@
+### Production environment settings
+
+# STS role and target account
+Sts.Role: arn:aws:iam::754048514734:role/admin
